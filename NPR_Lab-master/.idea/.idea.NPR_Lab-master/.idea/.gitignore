@@ -1,0 +1,8 @@
+﻿# 默认忽略的文件
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.NPR_Lab-master.iml
+/contentModel.xml
